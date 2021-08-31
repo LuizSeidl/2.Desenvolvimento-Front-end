@@ -1,4 +1,4 @@
-1. - [ ] Crie um novo projeto utilizando npx create-react-app nome-app e acesse a pasta nome-app.
+1. - [x] Crie um novo projeto utilizando npx create-react-app nome-app e acesse a pasta nome-app.
 
 * ⚠️ Substitua o nome-app pelo que você desejar para seu app ⚠️
 
@@ -18,6 +18,6 @@ const Task = (value) => {
 
 * Por fim, crie uma array de compromissos e use a função map para que cada item do array apareça, como um item de lista, no seu componente App.
 
-3. - [ ] Acesse [este link](https://www.freecodecamp.org/learn/front-end-libraries/react/) e faça cada um dos exercícios em ordem, sendo o último o "Create a Component with Composition".
+3. - [x] Acesse [este link](https://www.freecodecamp.org/learn/front-end-libraries/react/) e faça cada um dos exercícios em ordem, sendo o último o "Create a Component with Composition".
 
-4. - [ ] **Bônus** Por último, entenda como funciona o código [deste link](https://codepen.io/nathansebhastian/pen/qgOJKe). Adicione mais dois cards com descrição e link a sua escolha.
+4. - [x] **Bônus** Por último, entenda como funciona o código [deste link](https://codepen.io/nathansebhastian/pen/qgOJKe). Adicione mais dois cards com descrição e link a sua escolha.
