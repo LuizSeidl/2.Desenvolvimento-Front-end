@@ -2,7 +2,7 @@
 
 * ⚠️ Substitua o nome-app pelo que você desejar para seu app ⚠️
 
-2. - [ ] Crie uma lista de tarefas simples seguindo os passos abaixo:
+2. - [x] Crie uma lista de tarefas simples seguindo os passos abaixo:
 
 * Insira a função a seguir acima do seu App:
 
